@@ -1,23 +1,23 @@
-k
+
 <plign="center">
   <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
 </p>
 
-<h1 align="center">HolbertonBnB</h1>
+<h1 align="center">ALXBnB</h1>
 <p align="center">An AirBnB clone.</p>
 
 ---
 
 ## Description :house:
 
-HolbertonBnB is a complete web application, integrating database storage,
+ALXBnB is a complete web application, integrating database storage,
 a back-end API, and front-end interfacing in a clone of AirBnB.
 
 The project currently only implements the back-end console.
 
 ## Classes :cl:
 
-HolbertonBnB utilizes the following classes:
+ALXBnB utilizes the following classes:
 
 |     | BaseModel | FileStorage | User | State | City | Amenity | Place | Review |
 | --- | --------- | ----------- | -----| ----- | -----| ------- | ----- | ------ |
@@ -271,4 +271,5 @@ $ python3 unittest -m tests/test_console.py
 ```
 
 ## Authors :black_nib:
-* **Favour Ayoade ** <[ayoade](https://github.com/favour-22)>
+* **Favour Ayoade** <[ayoade](https://github.com/favour-22)>
+* **Brennan D Baraban** <[bdbaraban](https://github.com/bdbaraban)>
