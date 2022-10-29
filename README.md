@@ -2,10 +2,10 @@
   <img src="https://github.com/bdbaraban/AirBnB_clone/blob/master/assets/hbnb_logo.png" alt="HolbertonBnB logo">
 </p>
 
-<h1 align="center">ALXBnB</h1>
+<h1 align="center">AirBnB</h1>
 <p align="center">An AirBnB clone.</p>
 
-# AirBnB clone - RESTful API  :house:
+# AirBnB clone - RESTful API
 
 The RESTful API is the third segment of the AirBnB project during ALX SE program that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A RESTful API is created in this segment to manage requests for the AirBnB(HBnB) website.
 
@@ -40,9 +40,9 @@ The RESTful API is the third segment of the AirBnB project during ALX SE program
 * [License](#license)
 
 
-## Installation :computer:
+## Installation
 
-* Clone this repository: `git clone "https://github.com/Tecnophille/AirBnB_clone.git"`
+* Clone this repository: `git clone "https://github.com/favou-22/AirBnB_clone.git"`
 
 * Access AirBnb directory: `cd AirBnB_clone`
 
