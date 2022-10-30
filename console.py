@@ -1,11 +1,6 @@
 #!/usr/bin/python3
 """Defines the HBnB console."""
 import cmd
-<<<<<<< HEAD
-from models.base_model import BaseModel
-#from models import storage
-=======
->>>>>>> 0d463653cdeb60cad10ab04ea01d703acfe79b21
 import re
 from shlex import split
 from models import storage
