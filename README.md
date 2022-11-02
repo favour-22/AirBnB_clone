@@ -42,7 +42,7 @@ The RESTful API is the third segment of the AirBnB project during ALX SE program
 
 ## Installation
 
-* Clone this repository: `git clone "https://github.com/favou-22/AirBnB_clone.git"`
+* Clone this repository: `git clone "https://github.com/favour-22/AirBnB_clone.git"`
 
 * Access AirBnb directory: `cd AirBnB_clone`
 
